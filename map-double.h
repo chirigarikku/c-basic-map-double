@@ -1,0 +1,1 @@
+void mapDouble(int *src, int *dest);

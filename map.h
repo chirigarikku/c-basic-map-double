@@ -1,0 +1,1 @@
+void map(int *src, int *dest, int (*callback)(int, int));
