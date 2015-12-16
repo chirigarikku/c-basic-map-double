@@ -1,4 +1,4 @@
-## c-basic-map
+## c-map-double
 This code implements a basic `map` and `map-double` (basically doubles the values in the array) function.
 
 I suck at C, but here's trying out callbacks (not really; function pointers).
