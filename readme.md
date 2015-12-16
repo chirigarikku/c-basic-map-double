@@ -1,9 +1,8 @@
 ## c-map-double
-This code implements a basic `map` and `map-double` (basically doubles the values in the array) function.
+Trying out function pointers in C; implements a basic map and map-double function.
 
-I suck at C, but here's trying out callbacks (not really; function pointers).
 
-Output:
+### Output
 ```
 1 -> mapDouble(n) -> 2
 2 -> mapDouble(n) -> 4
